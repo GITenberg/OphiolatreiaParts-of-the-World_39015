@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39788'
     url: http://www.gutenberg.org/2009/agents/39788
 description: Attributed to Edward Sellon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39015#OphiolatreiaParts-of-the-World
 gutenberg_issued: '2012-02-29'
 gutenberg_type: Text
 identifiers:
