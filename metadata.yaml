@@ -1,0 +1,28 @@
+_repo: OphiolatreiaParts-of-the-World_39015
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sellon, Edward
+    deathdate: 1866
+    gutenberg_agent_id: '39788'
+    url: http://www.gutenberg.org/2009/agents/39788
+description: Attributed to Edward Sellon.
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39015'
+  lccn: '18004917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phallicism'
+- !lcsh 'Serpent worship'
+- !lcc 'BL'
+title: "Ophiolatreia\r\nAn Account of the Rites and Mysteries Connected with the Origin,\
+  \ Rise, and Development of Serpent Worship in Various Parts of the World"
+url: http://www.gutenberg.org/ebooks/39015
